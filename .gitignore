@@ -1,0 +1,10 @@
+# Compiled binaries
+gradient_map
+hough_transform
+
+# Generated output images (keep only input)
+edge_*.pgm
+coins_class*.pgm
+coins_detected*.pgm
+coins_final*.pgm
+coins_out*.pgm
